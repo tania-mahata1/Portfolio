@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Weather App",
+    "desc": "This Weather App is a simple web application designed to provide users with current weather conditions for a specified location.",
+    "image": "weatherlyandroid",
+    "category": "js",
+    "links": {
+      "view": "https://weatherapptrial.netlify.app/",
+      "code": "https://github.com/tania-mahata1/Weather-App"
+    }
+  },
+  {
+    "name": "Music App",
+    "desc": "This project is a customizable music app template built using HTML, CSS, JavaScript, and React. ",
+    "image": "sppuprepandroid",
+    "category": "react",
+    "links": {
+      "view": "https://musicapptanzania.netlify.app/",
+      "code": "https://github.com/tania-mahata1/Tanzania_music_App"
+    }
+  },
+  {
+    "name": "Quiz App",
+    "desc": "This project is a simple quiz application built using HTML, CSS, and JavaScript. It allows users to take quizzes with multiple-choice questions ",
+    "image": "quizapp",
+    "category": "js",
+    "links": {
+      "view": "https://funquizapp2.netlify.app/",
+      "code": "https://github.com/tania-mahata1/Quiz_app/tree/main"
+    }
+  }
+]
