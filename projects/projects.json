@@ -29,6 +29,17 @@
       "code": "https://github.com/tania-mahata1/Ecommerce_website"
     }
   },
+    {
+    "name": "Power BI Dash Hr Analytics",
+    "desc": "Transform your HR data into actionable insights with a dynamic Power BI dashboard. 📊💼",
+    "image": "powerbi",
+    "category": "js",
+    "links": {
+      "view": "https://drive.google.com/file/d/1enLkiolxgKGjmw4yykAuwSQW5lvf3UtV/view?usp=drive_link",
+      "code": ""
+    }
+  },
+
   {
     "name": "Quiz App",
     "desc": "This project is a simple quiz application built using HTML, CSS, and JavaScript. It allows users to take quizzes with multiple-choice questions ",
