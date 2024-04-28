@@ -33,7 +33,7 @@
     "name": "Power BI Dash Hr Analytics",
     "desc": "Transform your HR data into actionable insights with a dynamic Power BI dashboard. 📊💼",
     "image": "powerbi",
-    "category": "js",
+    "category": "basicweb",
     "links": {
       "view": "https://drive.google.com/file/d/1enLkiolxgKGjmw4yykAuwSQW5lvf3UtV/view?usp=drive_link",
       "code": ""
